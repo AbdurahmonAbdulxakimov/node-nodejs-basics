@@ -1,3 +1,3 @@
-# Node.js basics
+# Node.js basics (Development branch)
 
-## !!! Please don't submit Pull Requests to this repository !!!
+## !!! Solutions for the Assignment !!!
